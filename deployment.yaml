@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: amiharsh/react-test:acb1900599
+        image: amiharsh/react-test:7c553f3a74
         imagePullPolicy: Always
         ports:
           - containerPort: 80
